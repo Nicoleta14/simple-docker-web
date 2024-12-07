@@ -1,7 +1,7 @@
 name: Build and deploy a container to an Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: newapp  # Înlocuiește 'my-azure-web-app' cu numele aplicației tale din Azure.
+  AZURE_WEBAPP_NAME: my-azure-web-app  # Înlocuiește cu numele aplicației tale din Azure.
 
 on:
   push:
