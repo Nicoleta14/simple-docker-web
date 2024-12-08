@@ -1,13 +1,13 @@
 name: Build and Deploy to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: newapp  # Înlocuiește cu numele aplicației tale din Azure.
+  AZURE_WEBAPP_NAME: newapp  # Înlocuiește cu numele aplicației tale Azure Web App.
 
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main  # Rulează workflow-ul la modificări pe branch-ul principal.
+  workflow_dispatch:  # Permite rularea manuală a workflow-ului.
 
 permissions:
   contents: read
