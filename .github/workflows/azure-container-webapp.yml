@@ -1,7 +1,7 @@
 name: Build and Deploy to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: newapp  # Înlocuiește cu numele aplicației tale Azure Web App.
+  AZURE_WEBAPP_NAME: newapppp  # Înlocuiește cu numele aplicației tale Azure Web App.
 
 on:
   push:
