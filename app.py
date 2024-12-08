@@ -48,8 +48,8 @@ def home():
         </style>
     </head>
     <body>
-        <h1>Welcome to my new webpage!</h1>
-        <p>Explore your simple web app!!!!!</p>
+        <h1>Welcome!</h1>
+        <p>Explore your simple web app!!!!!_______</p>
         <button>Get Started</button>
     </body>
     </html>
