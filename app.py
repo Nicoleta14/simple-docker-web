@@ -49,7 +49,7 @@ def home():
     </head>
     <body>
         <h1>Welcome!</h1>
-        <p>Explore your simple web app!!!!!_______</p>
+        <p>Explore your simple web app!!!!!</p>
         <button>Get Started</button>
     </body>
     </html>
